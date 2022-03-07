@@ -1,0 +1,7 @@
+.containerPrincipal {
+  height: 100vh;
+  max-width: 100vw;
+  background-image: url(../../img/fondo.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
